@@ -1,0 +1,96 @@
+# Gestor de notas académicas
+ Un estudiante nececita llevar un mejor gestion sobre sus totas academicas y el **Objetivo** principal de este proyecto sera mejor y tener una mejor eficiencia sobre las notas. 
+ 
+ El sistema permite al usuario registrar, visualizar, modificar, eliminar, analizar y organizar las notas de los cursos en los que está inscrito, todo desde una interfaz sencilla que se ejecuta en la consola.
+
+ Al cubrir necesidades como la organización de cursos, el seguimiento del progreso académico y la posibilidad de analizar el desempeño en diferentes materias el gestor de notas académicas ayudará a los estudiantes concocer y llevar una mejor gestion sobre su rendimiento y sus notas.
+ 
+## === Requisitos ===
+
+**Funcionales**
+    - Registrar nuevo curso
+    - Mostrar todos los cursos y notas
+    - Calcular promedio general
+    - Contar cursos aprobados y reprobados
+    - Buscar curso por nombre (búsqueda lineal)
+    - Actualizar nota de un curso
+    - Eliminar un curso
+
+**No funcionales**
+
+    - Debe usar bucles y condicionales en el codigo
+    - El sistema se ejecuta en consola con Python
+    - No utiliza librerías externas
+    - Debe usar bucles y condicionales en el código
+
+## Pseudocodigo
+
+**Diseño principal del menu**
+
+    INICIO 
+        Definir opcion Como Entero
+        **MIENTRAS** opcion != 6 HACER
+            Imprimir "====== Gestor de notas cadenicas ======"
+            Imprimir "1. Registrar nuevo curso"
+            Imprimir "2. Mostrar todos los cursos y notas"
+            Imprimir "3. calcular promedio general"
+            Imprimir "4. Contar cursos aprobados y reprobados"
+            Imprimir "5. Buscar curso por nombre (búsqueda lieal)"
+            Imprimir "6. Actualizar nota de un curso"
+            Imprimir "7. Eliminar un curso""
+            Imprimir "8. Ordenar cursos por nota (ordenamiento burbuja)"
+            Imprimir "9. Ordenar cursos por nombre (ordenamiento inserción)"
+            Imprimir "10. Buscar curso por nombre (búsque binaria)"
+            Imprimir "11. Simular cola de solicitudes de revisión"
+            Imprimir "10. Buscar curso por nombre (búsque binaria)"
+            Imprimir "12. Mostrar historial de cambios (pila)"
+            Imprimir "13. salir"
+            **Leer** opcion
+            **Si** opcion = 1 enntonces
+                **registrar_nuevo_curso**
+            SiNo 
+                Si opcion = 2 enntonces
+                **mostrar_cursos_y_notas**
+            SiNo 
+                Si opcion = 3 enntonces
+                **calcular_promedio_general**
+            SiNo 
+                Si opcion = 4 enntonces
+                **Contar cursos**
+            SiNo 
+                Si opcion = 5 enntonces
+                **Buscar curso**
+            SiNo 
+                Si opcion = 6 enntonces
+                **Actualizar nota**
+            SiNo 
+                Si opcion = 7 enntonces
+                **Eliminar curso**
+            SiNo 
+                Si opcion = 8 enntonces
+                **Ordenar curso por nota**
+            SiNo 
+                Si opcion = 9 enntonces
+                **Ordenar curso por nobre**
+            SiNo 
+                Si opcion = 10 enntonces
+                **eliminar_curso**
+            SiNo 
+                Si opcion = 11 enntonces
+                **Buscar curso**
+            SiNo
+                Si opcion = 12 enntonces
+                **Hitorial**
+            SiNo 
+                Si opcion = 13 enntonces
+                Imprimir "Gracias por usar el Gestor de Notas Académicas
+            SiNo
+                Imprimir "Opción inválida. Intente de nuevo.
+            **Fin_si**
+        **FinMientras**
+    **Fin**
+
+
+
+# Modularidad
+La modularidad me ayudo a poder descomponer el trabajo en partes más pequeñas y asi poder crear funciones que hagan una sola tarea y para no repetir codigo
