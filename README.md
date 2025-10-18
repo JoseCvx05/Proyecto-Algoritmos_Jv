@@ -103,4 +103,4 @@ Aprendí mucho mejor como es el funcionamiento de distintos tipos de datos en py
 Lo más desafiante es hacer el gestor de notas solo ya no tuve a quienes consultar cuando algo estaba correcto o de quien guiarme, y al hacer fue implementar los distintos tipos de ordenamiento y busqueda.
 
 ## ¿Qué mejoraría si tuviera más tiempo?
-Lo que mejoraría serian los distintos tipos de funciones ya que creo que alguien con más conocimiento lo habría hecho el codigo más eficiente-
+Lo que mejoraría serian los distintos tipos de funciones ya que creo que alguien con más conocimiento lo habría hecho el codigo más eficiente.
