@@ -93,4 +93,14 @@
 
 
 # Modularidad
-La modularidad me ayudo a poder descomponer el trabajo en partes más pequeñas y asi poder crear funciones que hagan una sola tarea y para no repetir codigo
+La modularidad me ayudo a poder descomponer el trabajo en partes más pequeñas y poder dividirlas en dodolos llamadas funciones que hagan una sola tarea y para no repetir codigo, tenerlo de una manera más organizado y facil de entender.
+
+# Reflexión 
+## Que? que aprendi con este proyecto?
+Aprendí mucho mejor como es el funcionamiento de distintos tipos de datos en python como listas, pilas y colas y como implementar algoritmos de ordenamiendo como el de burbuja, tambien como crear diferentes tipos de funciones.
+
+## ¿Qué fue lo más desafiante de resolver?
+Lo más desafiante es hacer el gestor de notas solo ya no tuve a quienes consultar cuando algo estaba correcto o de quien guiarme, y al hacer fue implementar los distintos tipos de ordenamiento y busqueda.
+
+## ¿Qué mejoraría si tuviera más tiempo?
+Lo que mejoraría serian los distintos tipos de funciones ya que creo que alguien con más conocimiento lo habría hecho el codigo más eficiente-
